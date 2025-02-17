@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   otelcol:
     image: otel/opentelemetry-collector:latest
