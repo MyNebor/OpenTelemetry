@@ -11,7 +11,7 @@ processors:
 
 exporters:
   otlp:
-    endpoint: 'nebor_opentelementry-jaeger-1:4317'
+    endpoint: 'nebor_opentelementry-otelcol-1:4317'
     tls:
       insecure: true
 
