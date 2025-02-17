@@ -19,5 +19,3 @@ services:
       - '14268:14268'
       - '14250:14250'
       - '9411:9411'
-
-  # Add other OpenTelemetry components or exporters as needed
